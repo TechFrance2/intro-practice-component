@@ -1,0 +1,14 @@
+.navbar {
+    background-color: purple;
+    font-size: larger;
+    font-style: italic;
+    color: aliceblue;
+}
+
+.title {
+    background-color: cyan;
+    font-size: larger;
+    font-style: oblique;
+    color: black;
+}
+
